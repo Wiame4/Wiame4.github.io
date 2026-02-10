@@ -9,7 +9,7 @@ I'm passionate about **web development**, **cloud architecture**, and **data-dri
 ---
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Wiame4&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=Wiame4&color=blue)
 
 ---
 
