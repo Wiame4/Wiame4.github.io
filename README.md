@@ -138,15 +138,6 @@
 
 ---
 
-### 🎨 Developer GIF
-<div align="center">
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
-
----
-
 **🔍 Looking for:** Apprenticeship in Software Engineering starting 2026–2027  
 **📍 Location:** France (National Mobility)  
 **🎯 Interests:** Web Development, Cloud Computing, Data Analysis, DevOps
